@@ -1,4 +1,4 @@
-#The dataset includes the following files:
+# The dataset includes the following files:
 =========================================
 
 - 'README.txt'
